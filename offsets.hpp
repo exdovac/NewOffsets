@@ -2,7 +2,7 @@
 // Byfron Version: ???
 namespace offsets {
     inline constexpr uintptr_t Adornee = 0xD0;
-    inline constexpr uintptr_t Anchored = 0x1A5;
+    inline constexpr uintptr_t Anchored = 0x1AE;
     inline constexpr uintptr_t AnchoredMask = 0x4;
     inline constexpr uintptr_t AnimationId = 0xD0;
     inline constexpr uintptr_t AttributeToNext = 0x58;
@@ -22,9 +22,9 @@ namespace offsets {
     inline constexpr uintptr_t CameraRotation = 0xF8;
     inline constexpr uintptr_t CameraSubject = 0xE8;
     inline constexpr uintptr_t CameraType = 0x158;
-    inline constexpr uintptr_t CanCollide = 0x1A5;
+    inline constexpr uintptr_t CanCollide = 0x1AE;
     inline constexpr uintptr_t CanCollideMask = 0x8;
-    inline constexpr uintptr_t CanTouch = 0x1A5;
+    inline constexpr uintptr_t CanTouch = 0x1AE;
     inline constexpr uintptr_t CanTouchMask = 0x20;
     inline constexpr uintptr_t CharacterAppearanceId = 0x298;
     inline constexpr uintptr_t Children = 0x70;
@@ -129,7 +129,7 @@ namespace offsets {
     inline constexpr uintptr_t RenderJobToDataModel = 0x1B0;
     inline constexpr uintptr_t RenderJobToFakeDataModel = 0x38;
     inline constexpr uintptr_t RenderJobToRenderView = 0x218;
-    inline constexpr uintptr_t RequireBypass = 0x920;
+    inline constexpr uintptr_t RequireBypass = 0x0;
     inline constexpr uintptr_t RigType = 0x1C8;
     inline constexpr uintptr_t RootPartR15 = 0x620;
     inline constexpr uintptr_t RootPartR6 = 0x4C0;
